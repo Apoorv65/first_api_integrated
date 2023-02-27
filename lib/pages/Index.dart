@@ -1,7 +1,8 @@
-import 'package:api_integration/bloc/info_bloc.dart';
-import 'package:api_integration/model/model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
+import '../bloc/info_bloc.dart';
+import '../model/model.dart';
 
 
 class Index extends StatefulWidget {

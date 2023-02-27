@@ -1,10 +1,10 @@
-import 'dart:async';
 
-import 'package:api_integration/model/model.dart';
-import 'package:api_integration/resources/api_repo.dart';
-import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:meta/meta.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+
+import '../model/model.dart';
+import '../resources/api_repo.dart';
 
 part 'info_event.dart';
 part 'info_state.dart';

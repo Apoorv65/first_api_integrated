@@ -1,4 +1,4 @@
-import 'package:api_integration/pages/Index.dart';
+import 'package:first_api_integrated/pages/Index.dart';
 import 'package:flutter/material.dart';
 
 
